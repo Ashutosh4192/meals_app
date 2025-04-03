@@ -21,9 +21,9 @@ A Flutter-based meals application that allows users to explore various food cate
   <img src="https://github.com/user-attachments/assets/07d1a978-231b-4eb8-a365-3cd3b0adb5f4/3.jpeg" width="30%">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f36193d-efcf-4eb3-b409-ba5beb52a0ea/4.jpeg" width="30%">
-  <img src="https://github.com/user-attachments/assets/4789ddc3-6b38-4e06-a48d-64d1f33cd8e9/5.jpeg" width="30%">
-  <img src="https://github.com/user-attachments/assets/8d31865a-5373-463d-9073-bb0ac82647f4/6.jpeg" width="30%">
+  <img src="[4](https://github.com/user-attachments/assets/6f36193d-efcf-4eb3-b409-ba5beb52a0ea)" width="30%">
+  <img src="[5](https://github.com/user-attachments/assets/4789ddc3-6b38-4e06-a48d-64d1f33cd8e9)" width="30%">
+  <img src="[6](https://github.com/user-attachments/assets/8d31865a-5373-463d-9073-bb0ac82647f4)" width="30%">
 </p>
 
 
