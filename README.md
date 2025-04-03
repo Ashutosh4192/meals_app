@@ -13,6 +13,7 @@ A Flutter-based meals application that allows users to explore various food cate
   - Vegan
   - Lactose-Free
 - **Side Drawer Navigation**: Easily navigate between the categories screen, favorites, and filters through the side drawer.
+- **Animations**: Smooth transitions and animations enhance the user experience.
 
 ## Screenshots
 <table>
@@ -54,5 +55,6 @@ A Flutter-based meals application that allows users to explore various food cate
 - **Dart**: Programming language
 - **Riverpod**: State management
 - **Material Design**: UI Components
+- **Animations**: Used for smooth UI transitions
 
 
