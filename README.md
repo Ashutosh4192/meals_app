@@ -15,12 +15,16 @@ A Flutter-based meals application that allows users to explore various food cate
 - **Side Drawer Navigation**: Easily navigate between the categories screen, favorites, and filters through the side drawer.
 
 ## Screenshots
-![1](https://github.com/user-attachments/assets/e4209c11-f9ba-400c-a263-e88a70155cc2)
-![2](https://github.com/user-attachments/assets/a608ebc0-a144-4fe2-85ab-a340b7ecc9bf)
-![3](https://github.com/user-attachments/assets/07d1a978-231b-4eb8-a365-3cd3b0adb5f4)
-![4](https://github.com/user-attachments/assets/6f36193d-efcf-4eb3-b409-ba5beb52a0ea)
-![5](https://github.com/user-attachments/assets/4789ddc3-6b38-4e06-a48d-64d1f33cd8e9)
-![6](https://github.com/user-attachments/assets/8d31865a-5373-463d-9073-bb0ac82647f4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e4209c11-f9ba-400c-a263-e88a70155cc2/1.jpeg" width="30%">
+  <img src="https://github.com/user-attachments/assets/a608ebc0-a144-4fe2-85ab-a340b7ecc9bf/2.jpeg" width="30%">
+  <img src="https://github.com/user-attachments/assets/07d1a978-231b-4eb8-a365-3cd3b0adb5f4/3.jpeg" width="30%">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f36193d-efcf-4eb3-b409-ba5beb52a0ea/4.jpeg" width="30%">
+  <img src="https://github.com/user-attachments/assets/4789ddc3-6b38-4e06-a48d-64d1f33cd8e9/5.jpeg" width="30%">
+  <img src="https://github.com/user-attachments/assets/8d31865a-5373-463d-9073-bb0ac82647f4/6.jpeg" width="30%">
+</p>
 
 
 ## Installation
