@@ -17,14 +17,14 @@ A Flutter-based meals application that allows users to explore various food cate
 ## Screenshots
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/e4209c11-f9ba-400c-a263-e88a70155cc2" width="34%"></td>
-    <td><img src="https://github.com/user-attachments/assets/a608ebc0-a144-4fe2-85ab-a340b7ecc9bf" width="34%"></td>
-    <td><img src="https://github.com/user-attachments/assets/07d1a978-231b-4eb8-a365-3cd3b0adb5f4" width="34%"></td>
+    <td><img src="https://github.com/user-attachments/assets/e4209c11-f9ba-400c-a263-e88a70155cc2" width="60%"></td>
+    <td><img src="https://github.com/user-attachments/assets/a608ebc0-a144-4fe2-85ab-a340b7ecc9bf" width="60%"></td>
+    <td><img src="https://github.com/user-attachments/assets/07d1a978-231b-4eb8-a365-3cd3b0adb5f4" width="60%"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6f36193d-efcf-4eb3-b409-ba5beb52a0ea" width="34%"></td>
-    <td><img src="https://github.com/user-attachments/assets/4789ddc3-6b38-4e06-a48d-64d1f33cd8e9" width="34%"></td>
-    <td><img src="https://github.com/user-attachments/assets/8d31865a-5373-463d-9073-bb0ac82647f4" width="34%"></td>
+    <td><img src="https://github.com/user-attachments/assets/6f36193d-efcf-4eb3-b409-ba5beb52a0ea" width="60%"></td>
+    <td><img src="https://github.com/user-attachments/assets/4789ddc3-6b38-4e06-a48d-64d1f33cd8e9" width="60%"></td>
+    <td><img src="https://github.com/user-attachments/assets/8d31865a-5373-463d-9073-bb0ac82647f4" width="60%"></td>
   </tr>
 </table>
 
